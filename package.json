@@ -3,6 +3,8 @@
   "node": "12.x",
   "description": "Made by",
   "main": "index.js",
+  "version": "1.0.0",
+  "engines": {
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon"
